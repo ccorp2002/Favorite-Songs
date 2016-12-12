@@ -1,15 +1,3 @@
-body{
-  margin      : 0;
-  padding     : 1.5em;
-  font-family : sans-serif;
-  line-height : 1.5;
-}
-
-p{
-  margin  : 0 0 1.5em;
-  padding : 0;
-}
-
 a{
   color           : #9c3;
   text-decoration : none;
