@@ -2,6 +2,9 @@ a{
   color           : #9c3;
   text-decoration : none;
 }
+body {
+    background-color: blue;
+}
 
 .starRating:not(old){
   display        : inline-block;
